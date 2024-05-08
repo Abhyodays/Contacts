@@ -1,6 +1,6 @@
 Required softwares:
-1. Android Studion with Emulator
-2. Node
+1. Android Studio with Emulator
+3. Node
 
 Steps to run:
 1. install npm packages:
